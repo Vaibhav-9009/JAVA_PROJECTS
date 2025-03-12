@@ -1,4 +1,5 @@
 # JAVA_PROJECTS
+Project 1(MyHuffmanCompressor)
 MyHuffmanCompressor - A Simple File Compression & Decompression Tool
 
 This project implements Huffman Encoding for efficient file compression and decompression. It reads a text file, builds a frequency-based Huffman Tree, compresses the file into a smaller encoded format, and allows decompression to restore the original text.
